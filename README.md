@@ -1,6 +1,9 @@
 # ServerAndLobbySystem
 Server and Lobby System WIP test in Unreal Engine 4 C++ and UMG using the OnlineSubsystem
 
+Quick features video:
+https://youtu.be/T9zm8DYGDtM
+
 Features:
 * Play over Lan or Steam
 * Can set server display name with error checking
