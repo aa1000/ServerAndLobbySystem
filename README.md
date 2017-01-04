@@ -19,6 +19,7 @@ A full Lobby where you can:
 * Kick players
 * Invite Players Online
 * Accept Invites from players online
+* Show steam friend list
 * Show the Player's Steam Avatar if Playing online
 
 This is a C++ test/learning project so it is far from perfect or optimized
